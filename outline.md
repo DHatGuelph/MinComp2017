@@ -27,3 +27,19 @@ hands-on guided instruction in the morning, and a theory driven discussion after
 
 **Day Three**
 
+Time |   Topic   |   Readings/Instructions
+--------|----------|----------------
+9am-10am | Arduino time! | Badamasi, Yusuf Abdullahi. "The working principle of an Arduino." Electronics, Computer and Computation (ICECCO), 2014 11th International Conference on. IEEE, 2014.
+10am-12pm | Arduino Intro & Blink | 
+12pm-130pm | Lunchtime|
+130pm-230pm | Discussion: Critical Making |  Matt Ratto (2011) Critical Making: Conceptual and Material Studies in Technology and Social Life, The Information Society, 27:4, 252-260, DOI: 10.1080/01972243.2011.583819
+230pm-430pm | Arduino Experimentation | 
+
+**Day Four**
+
+Time |   Topic   |   Readings/Instructions
+--------|----------|----------------
+9am-12pm | Library Box  | Jason Griffey [The Library Box Project](http://librarybox.us/media.php)
+12pm-130pm | Lunchtime|
+130pm-300pm | Wrap-up and Discussion with entire DH@Guelph group
+
