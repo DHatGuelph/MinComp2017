@@ -30,7 +30,7 @@ hands-on guided instruction in the morning, and a theory driven discussion after
 Time |   Topic   |   Readings/Instructions
 --------|----------|----------------
 9am-10am | Arduino time! | Badamasi, Yusuf Abdullahi. "The working principle of an Arduino." Electronics, Computer and Computation (ICECCO), 2014 11th International Conference on. IEEE, 2014.
-10am-12pm | Arduino Intro & Blink | [Arduino Wikipedia](https://en.wikipedia.org/wiki/Arduino) | [Arduino Blink Page](https://www.arduino.cc/en/tutorial/blink)
+10am-12pm | Arduino Intro & Blink | [Arduino Wikipedia](https://en.wikipedia.org/wiki/Arduino), [Arduino Blink Page](https://www.arduino.cc/en/tutorial/blink)
 12pm-130pm | Lunchtime|
 130pm-230pm | Discussion: Critical Making |  Matt Ratto (2011) Critical Making: Conceptual and Material Studies in Technology and Social Life, The Information Society, 27:4, 252-260, DOI: 10.1080/01972243.2011.583819
 230pm-430pm | Arduino Experimentation | 
